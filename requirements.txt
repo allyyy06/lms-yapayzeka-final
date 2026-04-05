@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+groq
+python-dotenv
+sqlalchemy
+pandas
+fpdf2
+matplotlib
